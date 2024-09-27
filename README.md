@@ -7,8 +7,10 @@ The visual representation of notes key-wise and note-wise helps them learn in a 
  The COGs or COREs within the platform is used for the recording the playback functionality.
 
 # A simple chaos of a circuit
-<image src="https://github.com/user-attachments/assets/a574d7bc-aafd-4de2-92d3-1b9ac52ba913" width="500">
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a574d7bc-aafd-4de2-92d3-1b9ac52ba913" width="300" />
+  <img src="https://github.com/user-attachments/assets/38a36ad1-345a-4ae1-aef2-ed667170f794" width="300" />
+</p>
 
 # Demo video:
  Access a short demo video using the following link:
