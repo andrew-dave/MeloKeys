@@ -3,7 +3,7 @@ This is a short-term project in C to explore the multi-core computation of the p
 
 The visual representation of notes key-wise and note-wise helps them learn in a better manner. Users interact with the system via push buttons designed as keys, where each key corresponds to a musical note stored in memory. The LEDs under each key, provide visual feedback when pressing a key which enables visual learning. Additionally, a record feature allows users to record, allowing users to capture record, and play for instructed learning.
 
-# Using the COGS
+# Using multiple cores:
  The COGs or COREs within the platform is used for the recording the playback functionality.
 
 # Demo video:
